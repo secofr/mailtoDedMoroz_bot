@@ -22,7 +22,7 @@ logger = logging.getLogger(__name__)
 
 # Конфигурация
 BOT_TOKEN = "ВАШ_TELEGRAM_BOT_TOKEN"  # Замените на ваш токен
-EMAIL_ADDRESS = "localvisual@gmail.com"
+EMAIL_ADDRESS = "yourname@gmail.com"
 EMAIL_PASSWORD = "ВАШ_EMAIL_PАРОЛЬ_ИЛИ_APP_PASSWORD"  # Для Gmail нужен App Password
 
 # Этапы разговора
