@@ -1,4 +1,4 @@
-5# 🎅 Письмо Деду Морозу – Telegram Bot
+# 🎅 Письмо Деду Морозу – Telegram Bot
 
 ![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)
